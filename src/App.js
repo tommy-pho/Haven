@@ -4,6 +4,12 @@ import "./App.css";
 function App() {
   return (
     <div className="container">
+      {/* Background Music */}
+      <audio id="background-music" loop autoplay>
+        <source src="assets/background-music.mp3" type="audio/mp3" />
+        Your browser does not support the audio element.
+      </audio>
+
       <header>
         <h1>Tommy Pho</h1>
         <p>Computer Science Major | Developer | Problem Solver</p>
