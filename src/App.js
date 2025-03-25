@@ -6,7 +6,7 @@ function App() {
     <div className="container">
       {/* Background Music */}
       <audio id="background-music" loop autoplay>
-        <source src="assets/background-music.mp3" type="audio/mp3" />
+        <source src="assets/crossing_field.mp3" type="audio/mp3" />
         Your browser does not support the audio element.
       </audio>
 
