@@ -12,7 +12,7 @@ function App() {
 
       <header>
         <h1>Tommy Pho</h1>
-        <p>Computer Science Major | Developer | Problem Solver</p>
+        <p>Computer Science Majo | Developer | Problem Solver</p>
       </header>
 
       <section id="about">
