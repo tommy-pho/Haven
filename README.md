@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Haven
 Haven: Where passion builds code.
 
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 7dfff7f (Initial commit - setup React)
